@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 branchテキストの作成
 aaa
+=======
+branchテキストの作成
+>>>>>>> Stashed changes
